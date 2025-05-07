@@ -1,6 +1,7 @@
 name: GitHub-Profile-Summary-Cards
 
 on:
+  create:
   schedule: # execute every 24 hours
     - cron: "* */24 * * *"
   workflow_dispatch:
@@ -8,8 +9,10 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate
-
+    name: generate-github-cards
+    permissions:
+      contents: write
+  
     steps:
       - uses: actions/checkout@v2
       - uses: vn7n24fzkq/github-profile-summary-cards@release
@@ -17,3 +20,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: 9
+          EXCLUDE: "GLSL,HLSL"
