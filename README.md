@@ -5,8 +5,6 @@
 
 ## WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%2027%20mins-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -34,13 +32,13 @@ Sunday                   76 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       18 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  18 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  18 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -54,5 +52,5 @@ TypeScript               2 repos             ██████░░░░░�
 
 
 
- Last Updated on 28/07/2025 18:52:24 UTC
+ Last Updated on 30/07/2025 18:51:52 UTC
 <!--END_SECTION:waka-->
