@@ -5,6 +5,8 @@
 
 ## WakaTime Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%2045%20mins-blue)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -52,5 +54,5 @@ TypeScript               2 repos             ██████░░░░░�
 
 
 
- Last Updated on 30/07/2025 18:51:52 UTC
+ Last Updated on 31/07/2025 18:52:07 UTC
 <!--END_SECTION:waka-->
