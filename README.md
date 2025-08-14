@@ -34,14 +34,13 @@ Sunday                   76 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-JavaScript               29 mins             ████████████████░░░░░░░░░   62.00 % 
-JSON                     18 mins             ██████████░░░░░░░░░░░░░░░   38.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  47 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  47 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -55,5 +54,5 @@ TypeScript               2 repos             ██████░░░░░�
 
 
 
- Last Updated on 13/08/2025 18:47:58 UTC
+ Last Updated on 14/08/2025 18:49:54 UTC
 <!--END_SECTION:waka-->
