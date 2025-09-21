@@ -5,6 +5,8 @@
 
 ## WakaTime Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%2044%20mins-blue)
+
 **I Mostly Code in C#** 
 
 ```text
@@ -16,5 +18,5 @@ TypeScript               2 repos             ██████░░░░░�
 
 
 
- Last Updated on 20/09/2025 18:39:43 UTC
+ Last Updated on 21/09/2025 18:41:02 UTC
 <!--END_SECTION:waka-->
