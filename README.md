@@ -5,7 +5,7 @@
 
 ## WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-340%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-340%20hrs%2040%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -34,13 +34,14 @@ Sunday                   114 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 7 mins              █████████████████████████   98.33 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  7 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -55,5 +56,5 @@ ShaderLab                1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 12/11/2025 18:44:27 UTC
+ Last Updated on 13/11/2025 18:47:08 UTC
 <!--END_SECTION:waka-->
