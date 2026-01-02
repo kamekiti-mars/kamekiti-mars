@@ -5,8 +5,6 @@
 
 ## WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-351%20hrs%2021%20mins-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -55,5 +53,5 @@ ShaderLab                1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 01/01/2026 18:49:43 UTC
+ Last Updated on 02/01/2026 18:49:18 UTC
 <!--END_SECTION:waka-->
