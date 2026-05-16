@@ -5,6 +5,44 @@
 
 ## WakaTime Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-418%20hrs%2032%20mins-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+🌆 Daytime                288 commits         ████████░░░░░░░░░░░░░░░░░   31.75 % 
+🌃 Evening                343 commits         █████████░░░░░░░░░░░░░░░░   37.82 % 
+🌙 Night                  184 commits         █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+Tuesday                  139 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Wednesday                152 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Thursday                 158 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
+Friday                   75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Saturday                 129 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Sunday                   131 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C#** 
 
 ```text
@@ -18,5 +56,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2026 19:57:41 UTC
+ Last Updated on 16/05/2026 19:37:21 UTC
 <!--END_SECTION:waka-->
