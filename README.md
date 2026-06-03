@@ -34,16 +34,15 @@ Sunday                   131 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-C#                       2 hrs 46 mins       ████████████████████████░   95.15 % 
-Astro                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-Unity3D Asset            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Astro                    5 mins              ████████████░░░░░░░░░░░░░   48.41 % 
+Unity3D Asset            2 mins              ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
+C#                       2 mins              ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 54 mins       █████████████████████████   100.00 % 
+VS Code                  10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 54 mins       █████████████████████████   100.00 % 
+Windows                  10 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -59,5 +58,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 02/06/2026 21:26:52 UTC
+ Last Updated on 03/06/2026 21:33:01 UTC
 <!--END_SECTION:waka-->
