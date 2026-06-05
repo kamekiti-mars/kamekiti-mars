@@ -7,6 +7,42 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-423%20hrs%2017%20mins-blue?style=flat)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+🌆 Daytime                288 commits         ████████░░░░░░░░░░░░░░░░░   31.75 % 
+🌃 Evening                343 commits         █████████░░░░░░░░░░░░░░░░   37.82 % 
+🌙 Night                  184 commits         █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+Tuesday                  139 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Wednesday                152 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Thursday                 158 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
+Friday                   75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Saturday                 129 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Sunday                   131 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+Astro                    5 mins              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  5 mins              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  5 mins              █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in C#** 
 
 ```text
@@ -20,5 +56,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 04/06/2026 20:28:58 UTC
+ Last Updated on 05/06/2026 20:19:56 UTC
 <!--END_SECTION:waka-->
