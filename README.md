@@ -34,17 +34,17 @@ Sunday                   131 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Typst                    1 hr 57 mins        ███████████████████░░░░░░   77.49 % 
-JSON                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-Git Config               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Typst                    30 mins             ███████████████░░░░░░░░░░   61.36 % 
+JSON                     15 mins             ████████░░░░░░░░░░░░░░░░░   32.18 % 
+Git Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 32 mins       █████████████████████████   100.00 % 
+VS Code                  49 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 32 mins       █████████████████████████   100.00 % 
+Windows                  49 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -60,5 +60,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/06/2026 20:09:59 UTC
+ Last Updated on 20/06/2026 19:59:59 UTC
 <!--END_SECTION:waka-->
