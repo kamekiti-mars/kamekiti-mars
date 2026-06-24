@@ -5,7 +5,7 @@
 
 ## WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-426%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-427%20hrs-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -34,17 +34,14 @@ Sunday                   131 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-C#                       7 mins              ████████████████░░░░░░░░░   62.69 % 
-JSON                     4 mins              ████████░░░░░░░░░░░░░░░░░   33.47 % 
-Git Config               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+C#                       16 mins             █████████████████████████   99.66 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-VS Code                  12 mins             █████████████████████████   100.00 % 
+VS Code                  16 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  12 mins             █████████████████████████   100.00 % 
+Windows                  16 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -60,5 +57,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 23/06/2026 20:28:49 UTC
+ Last Updated on 24/06/2026 20:15:22 UTC
 <!--END_SECTION:waka-->
