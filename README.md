@@ -5,6 +5,10 @@
 
 ## WakaTime Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-425%20hrs%2026%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -60,5 +64,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 19:57:47 UTC
+ Last Updated on 29/07/2026 19:50:09 UTC
 <!--END_SECTION:waka-->
