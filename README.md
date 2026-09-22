@@ -5,7 +5,7 @@
 
 ## WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-432%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-433%20hrs%2023%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20mins-blue?style=flat)
 
@@ -36,14 +36,16 @@ Sunday                   131 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Git Config               21 mins             ██████████████░░░░░░░░░░░   56.46 % 
-JSON                     16 mins             ███████████░░░░░░░░░░░░░░   43.54 % 
+Git Config               23 mins             ██████████████░░░░░░░░░░░   55.67 % 
+JSON                     17 mins             ██████████░░░░░░░░░░░░░░░   41.36 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+PowerShell               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 🔥 Editors: 
-VS Code                  38 mins             █████████████████████████   100.00 % 
+VS Code                  41 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  38 mins             █████████████████████████   100.00 % 
+Windows                  41 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -65,5 +67,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2026 22:04:42 UTC
+ Last Updated on 22/09/2026 21:30:43 UTC
 <!--END_SECTION:waka-->
