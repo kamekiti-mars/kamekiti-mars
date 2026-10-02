@@ -5,7 +5,7 @@
 
 ## WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-437%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-437%20hrs%2038%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20mins-blue?style=flat)
 
@@ -36,17 +36,16 @@ Sunday                   131 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-C#                       2 hrs               ███████████░░░░░░░░░░░░░░   44.81 % 
-Markdown                 1 hr 33 mins        █████████░░░░░░░░░░░░░░░░   34.63 % 
-JavaScript               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+C#                       1 hr 54 mins        ████████████████████░░░░░   80.53 % 
+Other                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Git Config               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 29 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 21 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -58,15 +57,15 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in C#** 
 
 ```text
-C#                       5 repos             ██████████░░░░░░░░░░░░░░░   41.67 % 
-JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-TypeScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Astro                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+C#                       4 repos             █████████░░░░░░░░░░░░░░░░   36.36 % 
+JavaScript               2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+TypeScript               2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Astro                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 ```
 
 
 
 
- Last Updated on 01/10/2026 22:48:12 UTC
+ Last Updated on 02/10/2026 22:23:24 UTC
 <!--END_SECTION:waka-->
