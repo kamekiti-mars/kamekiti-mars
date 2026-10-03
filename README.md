@@ -36,16 +36,15 @@ Sunday                   131 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-C#                       1 hr 54 mins        ████████████████████░░░░░   80.53 % 
-Other                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-Git Config               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+C#                       11 mins             ███████████████░░░░░░░░░░   58.32 % 
+Markdown                 4 mins              ██████░░░░░░░░░░░░░░░░░░░   25.96 % 
+Other                    3 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 21 mins       █████████████████████████   100.00 % 
+VS Code                  19 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 21 mins       █████████████████████████   100.00 % 
+Windows                  19 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -67,5 +66,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2026 22:23:24 UTC
+ Last Updated on 03/10/2026 21:30:56 UTC
 <!--END_SECTION:waka-->
